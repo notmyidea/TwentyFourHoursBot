@@ -39,7 +39,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>me.notmyidea.tfhb.maven.twentyfour.SimpleBot</mainClass>
+                            <mainClass>me.notmyidea.tfhb.Bot</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
